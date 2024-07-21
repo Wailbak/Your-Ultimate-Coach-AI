@@ -23,5 +23,5 @@ Try **Your Ultimate Coach** here: [Your Ultimate Coach](https://chatgpt.com/g/g-
 - **Your Ultimate Coach**: "I can help with that! Let's start with some basic information. Do you have any dietary restrictions or preferences? What are your main health goals?"
 
 ## Contact
-Wail Bakraoui - [your.email@example.com](mailto:wailbak11@icloud.com)
+Wail Bakraoui - [wailbak11@icloud.com](mailto:wailbak11@icloud.com)
 
