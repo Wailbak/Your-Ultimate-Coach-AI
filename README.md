@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=55&pause=5000&color=F76200&random=false&width=800&height=200&lines=YOUR+ULTIMATE+COACH+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=55&pause=5000&color=F76200&random=false&width=800&height=200&lines=YOUR+ULTIMATE+COACH+(AI))](https://git.io/typing-svg)
 
 ## Overview
-**Your Ultimate Coach AI** is a personalized fitness and nutrition assistant designed to help users transform their fitness and nutrition journey. It offers tailored workout plans, customized meal suggestions, and daily motivation to help users achieve their health goals, whether it's losing weight, building muscle, or improving overall wellness.
+**Your Ultimate Coach (AI)** is a personalized fitness and nutrition assistant designed to help users transform their fitness and nutrition journey. It offers tailored workout plans, customized meal suggestions, and daily motivation to help users achieve their health goals, whether it's losing weight, building muscle, or improving overall wellness.
 
 ## Features
 - 🏋️ **Custom Workout Plans**: Personalized exercise routines based on user fitness levels, goals, and available equipment.
