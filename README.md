@@ -13,7 +13,7 @@
 - 🎯 **Goal Setting & Achievement**: Set realistic fitness and nutrition goals with actionable steps to achieve them.
 
 ## Getting Started
-Try **Your Ultimate Coach** here: [Your Ultimate Coach](https://chatgpt.com/g/g-fOfoxvE1l-your-ultimate-coach)
+🚀 Try **Your Ultimate Coach** here: [Your Ultimate Coach](https://chatgpt.com/g/g-fOfoxvE1l-your-ultimate-coach)
 
 ### Example Interactions
 - **User**: "I want to lose weight and tone my body."
